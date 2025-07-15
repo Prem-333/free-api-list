@@ -1,0 +1,5 @@
+Weather: https://api.open-meteo.com/
+News: https://newsapi.org/
+Sports: https://www.thesportsdb.com/api.php
+Finance: https://finnhub.io/
+Fun: https://official-joke-api.appspot.com/jokes/random
